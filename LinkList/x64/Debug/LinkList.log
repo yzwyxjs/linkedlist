@@ -1,0 +1,4 @@
+﻿  linkedList.c
+C:\Users\regjd\source\repos\LinkList\LinkList\linkedList.c(36,3): warning C4033: “modifyNode”必须返回值
+C:\Users\regjd\source\repos\LinkList\LinkList\linkedList.c(40): warning C4715: “modifyNode”: 不是所有的控件路径都返回值
+  LinkList.vcxproj -> C:\Users\regjd\source\repos\LinkList\x64\Debug\LinkList.exe
